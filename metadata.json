@@ -1,0 +1,10 @@
+{
+  "name": "Visión IA",
+  "description": "Reconocimiento de rostros, objetos y gestos en tiempo real con historial diario.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
